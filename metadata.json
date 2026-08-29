@@ -1,0 +1,6 @@
+{
+  "name": "Agent Browser",
+  "description": "Autonomous web navigation, visual interaction, and AI browsing assistant powered by agent-browser and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
